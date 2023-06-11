@@ -1,0 +1,10 @@
+[
+    {
+        "symbol": "AAPL",
+        "date": "2023-04-18 20:17:41",
+        "freeFloat": 99.89429184082324,
+        "floatShares": 15805174737,
+        "outstandingShares": 15821899776,
+        "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm"
+    }
+]
